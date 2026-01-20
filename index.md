@@ -2,3 +2,5 @@
 ## This is h2
 ###### This is h6
 I changed this file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
