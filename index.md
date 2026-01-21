@@ -4,3 +4,7 @@
 I changed this file
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+const pi = 3.14;
+```
