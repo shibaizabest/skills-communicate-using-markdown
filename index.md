@@ -8,3 +8,8 @@ I changed this file
 ```javascript
 const pi = 3.14;
 ```
+
+# My tasks:
+- [ ] Know to use Markdown;)
+- [x] Eat
+- [ ] Sleep
